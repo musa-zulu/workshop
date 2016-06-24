@@ -1,0 +1,9 @@
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\CSVFileKata.dll
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\CSVFileKata.pdb
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\NSubstitute.dll
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\NSubstitute.xml
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\obj\Debug\CSVFileKata.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\obj\Debug\CSVFileKata.dll
+C:\Users\ntokozo\Desktop\Workshop\CSVFileKata\CSVFileKata\obj\Debug\CSVFileKata.pdb

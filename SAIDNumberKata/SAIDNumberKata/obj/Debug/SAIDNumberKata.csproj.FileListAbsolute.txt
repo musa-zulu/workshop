@@ -1,0 +1,7 @@
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\bin\Debug\SAIDNumberKata.dll
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\bin\Debug\SAIDNumberKata.pdb
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\obj\Debug\SAIDNumberKata.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\obj\Debug\SAIDNumberKata.dll
+C:\Users\ntokozo\Desktop\Workshop\SAIDNumberKata\SAIDNumberKata\obj\Debug\SAIDNumberKata.pdb

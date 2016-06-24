@@ -1,0 +1,9 @@
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\StringKataCalculator.dll
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\StringKataCalculator.pdb
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\obj\Debug\StringKataCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\obj\Debug\StringKataCalculator.dll
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\obj\Debug\StringKataCalculator.pdb
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\NSubstitute.dll
+C:\Users\ntokozo\Desktop\Workshop\StringKataCalculator\StringKataCalculator\bin\Debug\NSubstitute.xml

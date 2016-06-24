@@ -1,0 +1,7 @@
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.dll
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.pdb
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.dll
+C:\Users\ntokozo\Desktop\Workshop\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.pdb

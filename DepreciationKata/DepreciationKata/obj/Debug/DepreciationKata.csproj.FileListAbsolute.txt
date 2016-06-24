@@ -1,0 +1,7 @@
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\bin\Debug\DepreciationKata.dll
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\bin\Debug\DepreciationKata.pdb
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\obj\Debug\DepreciationKata.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\obj\Debug\DepreciationKata.dll
+C:\Users\ntokozo\Desktop\Workshop\DepreciationKata\DepreciationKata\obj\Debug\DepreciationKata.pdb

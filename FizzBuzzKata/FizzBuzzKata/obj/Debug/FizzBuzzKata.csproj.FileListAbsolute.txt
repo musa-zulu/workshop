@@ -1,0 +1,7 @@
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\bin\Debug\nunit.framework.dll
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\bin\Debug\nunit.framework.xml
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
+C:\Users\ntokozo\Desktop\Workshop\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
